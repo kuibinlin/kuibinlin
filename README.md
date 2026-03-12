@@ -7,10 +7,10 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open WebUI Self-Hosted Setup Guide &lpar;Docker + Ollama + PostgreSQL on Ubuntu&rpar;](https://linsnotes.com/posts/open-webui-self-hosted-setup-guide/)
-- [SSH Connections to Private GitLab and GitHub](https://linsnotes.com/posts/ssh-connections-to-private-gitlab-and-github/)
-- [A Beginner&#39;s Guide to Contributing on GitHub](https://linsnotes.com/posts/a-beginners-guide-to-contributing-on-github/)
-- [Python Logging Setup for Data Science and Machine Learning](https://linsnotes.com/posts/python-logging-setup-data-science-machine-learning/)
-- [Machine Learning Algorithms Explained End-to-End Pipeline Guide](https://linsnotes.com/posts/machine-learning-algorithms-explained-end-to-end-pipeline-guide/)
+- [How to Add Interactive Charts to Jekyll Chirpy with Chart.js](https://linsnotes.com/posts/how-to-add-interactive-charts-to-jekyll-chirpy-with-chartjs/)
+- [RLHF Explained: How Reinforcement Learning from Human Feedback Works](https://linsnotes.com/posts/rlhf-explained-how-reinforcement-learning-from-human-feedback-works/)
+- [How to Add Animated Subtitle Effects to Jekyll Chirpy Theme](https://linsnotes.com/posts/how-to-add-animated-subtitle-effects-to-jekyll-chirpy-theme/)
+- [How to Add Interactive Maps to Jekyll Using Leaflet and OpenStreetMap](https://linsnotes.com/posts/how-to-add-interactive-maps-to-jekyll-using-leaflet-and-openstreetmap/)
+- [Mapping Singapore’s Top Places Using Leaflet and OpenStreetMap](https://linsnotes.com/posts/mapping-singapore-top-places-using-leaflet-and-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
 
