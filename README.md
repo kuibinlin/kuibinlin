@@ -7,10 +7,10 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [A JSON Viewer for Claude Code Config Files](https://linsnotes.com/posts/a-json-viewer-for-claude-code-config-files/)
 - [Building an AI Playground with Hugging Face Inference API &amp; Cloudflare Workers](https://linsnotes.com/posts/building-an-ai-playground-with-hugging-face-and-cloudflare-workers/)
 - [How to Add Interactive Charts to Jekyll Chirpy with Chart.js](https://linsnotes.com/posts/how-to-add-interactive-charts-to-jekyll-chirpy-with-chartjs/)
 - [RLHF Explained: How Reinforcement Learning from Human Feedback Works](https://linsnotes.com/posts/rlhf-explained-how-reinforcement-learning-from-human-feedback-works/)
 - [How to Add Animated Subtitle Effects to Jekyll Chirpy Theme](https://linsnotes.com/posts/how-to-add-animated-subtitle-effects-to-jekyll-chirpy-theme/)
-- [How to Add Interactive Maps to Jekyll Using Leaflet and OpenStreetMap](https://linsnotes.com/posts/how-to-add-interactive-maps-to-jekyll-using-leaflet-and-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
 
