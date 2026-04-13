@@ -7,10 +7,10 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python List vs Linked List](https://linsnotes.com/posts/python-list-vs-linked-list/)
 - [Block Ads on Every Device in Your Home Network with Pi-hole](https://linsnotes.com/posts/block-ads-on-every-device-in-your-home-network-with-pi-hole/)
 - [Run Your Own VPN at Home with PiVPN](https://linsnotes.com/posts/run-your-own-vpn-at-home-with-pivpn/)
 - [A JSON Viewer for Claude Code Config Files](https://linsnotes.com/posts/a-json-viewer-for-claude-code-config-files/)
 - [Building an AI Playground with Hugging Face Inference API &amp; Cloudflare Workers](https://linsnotes.com/posts/building-an-ai-playground-with-hugging-face-and-cloudflare-workers/)
-- [How to Add Interactive Charts to Jekyll Chirpy with Chart.js](https://linsnotes.com/posts/how-to-add-interactive-charts-to-jekyll-chirpy-with-chartjs/)
 <!-- BLOG-POST-LIST:END -->
 
