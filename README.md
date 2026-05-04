@@ -7,10 +7,10 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Newsletter Subscribe Feature to Jekyll Chirpy with Brevo](https://linsnotes.com/posts/how-to-add-newsletter-subscribe-feature-to-jekyll-chirpy-with-brevo/)
+- [Customize Chirpy Mobile View to Show Full Sidebar Menu Including a Posts Tab](https://linsnotes.com/posts/customise-chirpy-mobile-sidebar-posts-tab/)
 - [Python List vs Linked List](https://linsnotes.com/posts/python-list-vs-linked-list/)
 - [Block Ads on Every Device in Your Home Network with Pi-hole](https://linsnotes.com/posts/block-ads-on-every-device-in-your-home-network-with-pi-hole/)
 - [Run Your Own VPN at Home with PiVPN](https://linsnotes.com/posts/run-your-own-vpn-at-home-with-pivpn/)
-- [A JSON Viewer for Claude Code Config Files](https://linsnotes.com/posts/a-json-viewer-for-claude-code-config-files/)
-- [Building an AI Playground with Hugging Face Inference API &amp; Cloudflare Workers](https://linsnotes.com/posts/building-an-ai-playground-with-hugging-face-and-cloudflare-workers/)
 <!-- BLOG-POST-LIST:END -->
 
