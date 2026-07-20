@@ -7,10 +7,10 @@
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Kubernetes Lab with k3s and LXD Part 4 Adding Persistent Storage](https://linsnotes.com/posts/building-a-kubernetes-lab-with-k3s-and-lxd-part-4-adding-persistent-storage/)
+- [Building a Kubernetes Lab with k3s and LXD Part 3 Installing k3s](https://linsnotes.com/posts/building-a-kubernetes-lab-with-k3s-and-lxd-part-3-installing-k3s/)
+- [Building a Kubernetes Lab with k3s and LXD Part 2 Building the Five Nodes](https://linsnotes.com/posts/building-a-kubernetes-lab-with-k3s-and-lxd-part-2-building-the-five-nodes/)
+- [Building a Kubernetes Lab with k3s and LXD Part 1 Preparing the Ubuntu Host](https://linsnotes.com/posts/building-a-kubernetes-lab-with-k3s-and-lxd-part-1-preparing-the-ubuntu-host/)
 - [Welcome to My Blog](https://linsnotes.com/posts/welcome-to-my-blog/)
-- [How to Add Newsletter Subscribe Feature to Jekyll Chirpy with Brevo](https://linsnotes.com/posts/how-to-add-newsletter-subscribe-feature-to-jekyll-chirpy-with-brevo/)
-- [Customize Chirpy Mobile View to Show Full Sidebar Menu Including a Posts Tab](https://linsnotes.com/posts/customise-chirpy-mobile-sidebar-posts-tab/)
-- [Python List vs Linked List](https://linsnotes.com/posts/python-list-vs-linked-list/)
-- [Block Ads on Every Device in Your Home Network with Pi-hole](https://linsnotes.com/posts/block-ads-on-every-device-in-your-home-network-with-pi-hole/)
 <!-- BLOG-POST-LIST:END -->
 
